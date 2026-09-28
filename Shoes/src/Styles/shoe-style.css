@@ -1,0 +1,11 @@
+.highlighted {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* if it says "id" then id it is */
+#shoe-card {
+    border: 1px solid gray;
+    padding: auto;
+    box-shadow: 3px 6px gold;
+}
